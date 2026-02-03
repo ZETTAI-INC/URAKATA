@@ -9,3 +9,4 @@ screenshots/
 capture_*.js
 screenshot.js
 remove_bg.py
+node_modules
