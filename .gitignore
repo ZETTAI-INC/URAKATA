@@ -1,0 +1,11 @@
+node_modules/
+venv/
+venv2/
+/*.png
+*.pyc
+__pycache__/
+.DS_Store
+screenshots/
+capture_*.js
+screenshot.js
+remove_bg.py
