@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "dev": "npx serve reference -p 8080"
+  },
   "devDependencies": {
     "puppeteer": "^24.36.1"
   }
